@@ -1,2 +1,3 @@
 # Sutents
-This ropository is for master sutendents projects 
+This ropository is edmo program to data convert from bdd to cov, 
+helping graduates students complete their projects.
